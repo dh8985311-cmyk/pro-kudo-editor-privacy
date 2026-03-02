@@ -2,9 +2,10 @@
 
 This repository hosts the public **Privacy Policy** for the iOS app `pro-kudo-editor` (image editor).
 
-The main file is:
+Main content:
 
-- `index.md` – English + Vietnamese privacy policy text, intended to be published via GitHub Pages and linked in **App Store Connect**.
+- `index.md` – Privacy Policy (English + Vietnamese), for **App Store Connect** and general use.
+- `support/index.md` – Support page (English + Vietnamese): contact email, FAQ, link to Privacy Policy.
 
 ### How to publish via GitHub Pages
 
@@ -15,5 +16,10 @@ The main file is:
 5. Save. After GitHub finishes building, your site will be available at a URL like:
    - `https://<your-username>.github.io/pro-kudo-editor-privacy/`
 
-Use that URL as the **Privacy Policy URL** in App Store Connect.
+**URLs after publishing:**
+
+- Privacy Policy: `https://dh8985311-cmyk.github.io/pro-kudo-editor-privacy/`
+- Support: `https://dh8985311-cmyk.github.io/pro-kudo-editor-privacy/support/`
+
+Use the Privacy Policy URL in **App Store Connect** (and the Support URL if the app listing asks for it).
 
