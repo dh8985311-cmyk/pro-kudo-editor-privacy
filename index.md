@@ -198,10 +198,8 @@ Your continued use of the App after any changes to this Privacy Policy will sign
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-- **Email**: [your-privacy-email@example.com]  
+- **Email**: dh8985311@gmail.com  
 - (Optional) **Website**: [your-website-url]
-
-Please replace the contact details above with your actual support or privacy contact information.
 
 ---
 
@@ -405,8 +403,6 @@ Việc bạn tiếp tục sử dụng Ứng dụng sau khi Chính sách được
 
 Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc yêu cầu nào liên quan đến Chính sách Quyền riêng tư này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:
 
-- **Email**: [your-privacy-email@example.com]  
+- **Email**: dh8985311@gmail.com  
 - (Tuỳ chọn) **Website**: [your-website-url]
-
-Vui lòng thay thế các thông tin liên hệ trên bằng thông tin hỗ trợ/thư điện tử thực tế của bạn.
 
